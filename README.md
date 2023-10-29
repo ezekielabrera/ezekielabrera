@@ -23,9 +23,9 @@
 <hr>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezekielabrera&show_icons=true&locale=en" alt="ezekielabrera" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ezekielabrera&show_icons=true&locale=en" alt="ezekielabrera" />
 
-<img align="center" style="margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielabrera&" alt="ezekielabrera" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielabrera&" alt="ezekielabrera" />
 </p>
 
 
