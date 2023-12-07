@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Ezekiel Abrera</h1>
+<h1 align="center">Hi 👋, I'm KeilDevz</h1>
 <p align="center">A Bachelor of Science in Information Technology student passionate about web development and eager to learn. Experienced with HTML, CSS, and JavaScript, and currently working on personal projects to enhance my skills. I'm particularly interested in Front-end web development and UI/UX designing. Excited to start my career in web development and build innovative web applications. Connect with me!</p>
 
 <img align="right" alt="coding" width="40%" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
